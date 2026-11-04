@@ -58,6 +58,19 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a REST API with FastAPI, Pydantic models, and CRUD endpoints.",
+      "path": "assignments/building-rest-apis",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
